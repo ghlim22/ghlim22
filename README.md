@@ -1,4 +1,7 @@
-### Hi there 👋
+### 사용 언어
+ - C
+ - C++
+ - Python
 
 <!--
 **ghlim22/ghlim22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
